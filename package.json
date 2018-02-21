@@ -1,0 +1,35 @@
+{
+  "name": "changestring",
+  "version": "1.0.0",
+  "description": "\"Replace character(s) of a string with grawlix\"",
+  "main": "index.js",
+  "dependencies": {
+    "semver": "^5.5.0"
+  },
+  "scripts":{
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chelseadoeleman/Package.git"
+  },
+  "keywords": [
+    "[\"grawlix\"",
+    "\"string\"",
+    "\"replace\"",
+    "\"change\"",
+    "\"comicbook\"",
+    "\"fill\"",
+    "\"*\"",
+    "\"char\"]"
+  ],
+  "author": "Chelsea Doeleman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chelseadoeleman/Package/issues"
+  },
+  "homepage": "https://github.com/chelseadoeleman/Package#readme",
+  "dependencies": {
+    "semver": "^5.5.0"
+  }
+}
