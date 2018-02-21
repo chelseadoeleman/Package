@@ -29,7 +29,4 @@
     "url": "https://github.com/chelseadoeleman/Package/issues"
   },
   "homepage": "https://github.com/chelseadoeleman/Package#readme",
-  "dependencies": {
-    "semver": "^5.5.0"
-  }
 }
